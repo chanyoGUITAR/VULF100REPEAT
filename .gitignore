@@ -12,7 +12,7 @@
 *.vsix
 
 # files
-*.mp4
-*.mp3
-*.json
-*.code-workspace
+./*.mp4
+./*.mp3
+./*.json
+./*.code-workspace
