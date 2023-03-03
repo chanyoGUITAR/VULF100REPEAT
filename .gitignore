@@ -7,7 +7,7 @@
 
 # Local History for Visual Studio Code
 .history/
-./.venv39
+.venv39
 
 # Built Visual Studio Code Extensions
 *.vsix
@@ -16,5 +16,5 @@
 *.mp4
 *.mp3
 *.png
-./*.json
-./*.code-workspace
+*.json
+*.code-workspace
